@@ -1,7 +1,15 @@
 # AI-Assisted Drone Delivery Mission Planner
 
 > An intelligent route-planning and decision-support prototype for civilian drone delivery operations, combining path-finding algorithms, AI-based environment perception, constraints, and an interactive Qt/QML interface.
-> 
+
+<p align="center">
+  <img src="Project_Assets/mission-planner-overview.png" width="100%">
+</p>
+
+<p align="center">
+  <em>Conceptual portfolio visualization — generalized representation for demonstration purposes.</em>
+</p>
+
 > **Portfolio Project Notice:** This repository presents a generalized portfolio representation of work performed during a confidential internship project. Original source code, internal datasets, proprietary documentation, and project-specific information are not included.
 
 ## Overview
