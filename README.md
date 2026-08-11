@@ -44,6 +44,22 @@ The analytics layer summarizes route performance through distance, estimated tim
   <img src="Project_Assets/analytics-dashboard.png" width="95%">
 </p>
 ---
+## Why This Project Matters
+
+Drone delivery requires more than simply finding the shortest path between two locations.
+
+A practical planning system needs to consider multiple factors simultaneously:
+
+- Route distance
+- Obstacles and restricted regions
+- Environmental constraints
+- Energy consumption
+- Path feasibility
+- Route efficiency
+- Object detection information
+- Operational constraints
+
+This project explores how AI, path-finding algorithms, constraint handling, and analytics can be combined into a modular decision-support workflow.
 
 ## Project Objective
 
