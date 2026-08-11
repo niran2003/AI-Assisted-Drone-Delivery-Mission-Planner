@@ -41,7 +41,7 @@ The objective is to demonstrate how AI, optimization algorithms, and software en
 The analytics layer summarizes route performance through distance, estimated time, energy consumption, risk exposure, path efficiency, constraint analysis, and other mission-level KPIs.
 
 <p align="center">
-  <img src="Project_Assets/Images/analytics-dashboard.png" width="95%">
+  <img src="Project_Assets/analytics-dashboard.png" width="95%">
 </p>
 ---
 
