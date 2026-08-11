@@ -3,7 +3,7 @@
 > An intelligent route-planning and decision-support prototype for civilian drone delivery operations, combining path-finding algorithms, AI-based environment perception, constraints, and an interactive Qt/QML interface.
 
 <p align="center">
-  <img src="Project_Assets/Pic1.png" width="100%">
+  <img src="Project_Assets/path-planning-analysis.png" width="100%">
 </p>
 
 <p align="center">
