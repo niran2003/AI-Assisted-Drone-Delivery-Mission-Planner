@@ -35,6 +35,25 @@ The objective is to demonstrate how AI, optimization algorithms, and software en
 > **Confidentiality Notice:**  
 > This repository is a portfolio representation of work performed during a confidential internship project. Original source code, internal datasets, proprietary software, internal documentation, and project-specific information are intentionally not included. The civilian delivery scenario and visualizations presented here are generalized representations created for portfolio purposes.
 
+## Project Showcase
+
+### Mission Planning Interface
+
+The interactive planning interface allows users to configure a delivery mission, define waypoints, apply constraints, and visualize the generated route.
+
+<p align="center">
+  <img src="Project_Assets/Images/mission-planner-overview.png" width="95%">
+</p>
+
+---
+
+### Analytics & Decision Support
+
+The analytics layer summarizes route performance through distance, estimated time, energy consumption, risk exposure, path efficiency, constraint analysis, and other mission-level KPIs.
+
+<p align="center">
+  <img src="Project_Assets/Images/analytics-dashboard.png" width="95%">
+</p>
 ---
 
 ## Project Objective
